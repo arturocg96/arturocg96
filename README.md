@@ -4,4 +4,4 @@
 💼 I’m seeking opportunities where I can align with company objectives and contribute effectively to the team.
 📫 Feel free to reach out on LinkedIn or GitHub @arturocg96.
 😄 Pronouns: He/Him
-⚡ Fun fact: I love tackling complex coding challenges and enjoy participating in hackathons!
+⚡ Fun fact: I love spending hours at my computer, developing and coding every day!

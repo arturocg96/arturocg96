@@ -5,16 +5,22 @@ I'm a Junior Full Stack Developer 💻 with a solid foundation in **Web Applicat
 ## ✨ Quick Facts About Me ✨
 - 🎓 Professional Certifications in **Web Application Development** and **Cross-Platform Application Development**
 - 🏆 Completing a **Master’s in Full Stack Development at UNIR**
-- 📚 Currently taking steps to study **Data Science** to expand my knowledge in **Artificial Intelligence** and pursue a passion for data-driven innovation
+- 📚 Taking steps to study **Data Science** to expand my knowledge in **Artificial Intelligence**
+- 🧩 8 years of experience in **Sales and Client Relations**, which enhances my ability to develop user-focused tech solutions
 - 🔭 Actively seeking exciting opportunities in tech to apply my skills and creativity
-- 📜 [Download My Resume](#)
-- 📫 Connect with me on [LinkedIn](#) – let’s discuss how I can add value to your team!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arturo-carrasco-gonzález) – let’s discuss how I can add value to your team!
 
 ## 🛠️ Coding Languages and Tools
 JavaScript | TypeScript | Angular | React | MongoDB | MySQL | NodeJS | .NET 8 | Postman | PHP
 
 ## 💡 Other Development Tools
 Tailwind CSS | HTML5 | CSS3 | Bootstrap | Git | Visual Studio Code | Figma | Notion | Jira | GitHub Actions
+
+## 🌟 What I Bring to the Table
+- **User-Centric Problem Solving:** My background in sales has given me insight into user needs, which I apply in developing tech solutions with a focus on usability.
+- **Collaboration & Communication:** Experience working across different teams has strengthened my skills in teamwork and clear communication.
+- **Adaptability:** Eager to continuously learn and evolve, I’m quick to adapt to new tools, frameworks, and methodologies to stay on top of industry trends.
+- **Passion for AI & Data Science:** My interest in Data Science and AI drives me to keep expanding my skills in these areas, aiming to leverage data for impactful, insightful applications.
 
 ---
 

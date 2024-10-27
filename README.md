@@ -1,12 +1,13 @@
 # Hi there! 👋 I'm Arturo Carrasco González
 
-I'm a Junior Full Stack Developer 💻 with a strong foundation in **Web Application Development** and **Cross-Platform Application Development**. Currently, I'm completing a **Master’s in Full Stack Development at UNIR** to deepen my technical expertise. I’m passionate about creating efficient, user-focused solutions and always looking to expand my skill set.
+I'm a Junior Full Stack Developer 💻 with a solid foundation in **Web Application Development** and **Cross-Platform Application Development**. Currently, I'm completing a **Master’s in Full Stack Development at UNIR** to deepen my technical expertise. With **1 year of experience in web development**, I’m passionate about creating efficient, user-focused solutions and always looking to expand my skill set.
 
 ## ✨ Quick Facts About Me ✨
 - 🎓 Professional Certifications in **Web Application Development** and **Cross-Platform Application Development**
 - 🏆 Completing a **Master’s in Full Stack Development at UNIR**
 - 📚 Currently exploring **Data Science** to expand my knowledge in **Artificial Intelligence**
 - 💼 Over 8 years of experience in **Sales and Client Relations**, where I led a team as a **Team Leader**, honing my skills in communication, organization, and understanding client needs – abilities I now bring to tech to build user-centered solutions.
+- 🔨 **1 year of hands-on experience** in web development, working with both frontend and backend technologies
 - 🔭 Actively seeking exciting opportunities in tech to apply my skills and creativity
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arturo-carrasco-gonzález) – let’s discuss how I can add value to your team!
 
@@ -27,4 +28,5 @@ I'm a Junior Full Stack Developer 💻 with a strong foundation in **Web Applica
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocg96&layout=compact)
+ithub-readme-stats.vercel.app/api?username=arturocg96&show_icons=true&theme=radical)
 

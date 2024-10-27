@@ -27,6 +27,5 @@ I'm a Junior Full Stack Developer 💻 with a solid foundation in **Web Applicat
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocg96&layout=compact)
-ithub-readme-stats.vercel.app/api?username=arturocg96&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocg96&layout=compact)ithub-readme-stats.vercel.app/api?username=arturocg96&show_icons=true&theme=radical)
 

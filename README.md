@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arturo Carrasco González
 
-I'm a Junior Full Stack Developer 💻 with a solid foundation in **Web Application Development** and **Cross-Platform Application Development**. Currently, I'm completing a **Master’s in Full Stack Development at UNIR** to deepen my technical expertise. With **1 year of experience in web development**, I’m passionate about creating efficient, user-focused solutions and always looking to expand my skill set.
+I am a Junior Full Stack Developer 💻 with a solid foundation in web and cross-platform application development, currently completing a Master’s in Full Stack Development at UNIR to deepen my technical knowledge. I stand out from other junior profiles thanks to my previous work experience in a different sector, where I led teams and strengthened my management and adaptability skills. With 1 year of experience in web development, I am deeply passionate about technology; I code and study every day to continuously improve. I align and adapt perfectly with both client and company objectives, ensuring quality in every project I’m involved in.
 
 ## ✨ Quick Facts About Me ✨
 - 🎓 Professional Certifications in **Web Application Development** and **Cross-Platform Application Development**

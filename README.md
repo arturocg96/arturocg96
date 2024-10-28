@@ -26,6 +26,5 @@ I am a Junior Full Stack Developer 💻 with a solid foundation in web and cross
 - **Passion for AI & Data Science:** Driven to expand my skills in Data Science and AI, aiming to leverage data for impactful, insightful applications.
 
 ---
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocg96&layout=compact)
 

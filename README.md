@@ -5,8 +5,8 @@ Soy Junior Full Stack Developer 💻 con una base sólida en desarrollo de aplic
 ## ✨ Datos rápidos sobre mí ✨
 - 🎓 Certificaciones Profesionales en **Desarrollo de Aplicaciones Web** y **Desarrollo de Aplicaciones Multiplataforma**
 - 🏆 Máster en **Full Stack Development por la UNIR**
-- 📚 Cursando actualmente el Grado de **Ciencia de Datos** para ampliar mi conocimiento en **Inteligencia Artificial**
-- 💼 Más de 8 años de experiencia en **Ventas y Relaciones con Clientes**, donde lideré un equipo como **Team Leader**, perfeccionando mis habilidades en comunicación, organización y comprensión de las necesidades del cliente. Estas habilidades las aplico ahora en tecnología para construir soluciones centradas en el usuario.
+- 📚 Cursando actualmente el Grado de **Ciencia de Datos**.
+- 💼 Más de 8 años de experiencia en **Ventas y Relaciones con Clientes**, donde lideré equipos como **Team Leader**, perfeccionando mis habilidades en comunicación, organización y comprensión de las necesidades del cliente. Estas habilidades las aplico ahora en tecnología para construir soluciones centradas en el usuario.
 - 🔨 **1 año de experiencia práctica** en desarrollo web, trabajando tanto en frontend como en backend
 - 🔭 Buscando activamente oportunidades emocionantes en tecnología para aplicar mis habilidades y creatividad
 - 📫 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/arturo-carrasco-gonzález) – ¡discutamos cómo puedo aportar valor a tu equipo!

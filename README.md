@@ -21,9 +21,9 @@ Soy programador fullstack junior con una sólida formación en desarrollo de apl
 HTML5, CSS3, Tailwind CSS, Bootstrap, Git, Visual Studio Code, Figma, Notion, Jira, GitHub Actions
 
 ## 🌟 Qué aporto
-- **Enfoque en la calidad y los resultados:** Gracias a mi experiencia liderando equipos y en relaciones con clientes, mantengo un enfoque sólido en la calidad y en la entrega de resultados efectivos en cada proyecto en el que participo.
-- **Colaboración y comunicación efectiva:** Mis habilidades de liderazgo y comunicación me permiten colaborar fluidamente con equipos de desarrollo y otros departamentos, asegurando una alineación clara con los objetivos del cliente y de la empresa.
-- **Adaptabilidad y aprendizaje continuo:** Estoy comprometido con el aprendizaje permanente y me adapto rápidamente a nuevas herramientas, frameworks y tendencias del sector, garantizando soluciones innovadoras y actualizadas.
-- **Pasión por la IA y Ciencia de Datos:** Apasionado por el potencial de la IA y la Ciencia de Datos, busco expandir mis competencias en estas áreas para aportar valor añadido mediante aplicaciones basadas en datos.
+- **Orientación a resultados y calidad:** Con una sólida experiencia en liderazgo de equipos y relaciones con clientes, me enfoco en garantizar resultados de alta calidad en cada proyecto, asegurando que cumpla con los objetivos definidos.
+- **Colaboración y comunicación efectiva:** Gracias a mis habilidades de liderazgo y comunicación, colaboro de forma fluida con equipos de desarrollo y otros departamentos, alineándome con los objetivos tanto del cliente como de la empresa.
+- **Adaptabilidad y aprendizaje continuo:** Estoy comprometido con el aprendizaje permanente y tengo la capacidad de adaptarme rápidamente a nuevas herramientas, frameworks y tendencias del sector, lo que me permite ofrecer soluciones innovadoras y actualizadas.
+- **Pasión por la IA y Ciencia de Datos:** Apasionado por el potencial de la IA y la Ciencia de Datos, busco ampliar mis competencias en estas áreas para aportar valor añadido mediante aplicaciones impulsadas por datos.
 
 

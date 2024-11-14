@@ -1,7 +1,6 @@
 # ¡Hola! 👋 Soy Arturo Carrasco González
 
-
-Soy programador fullstack junior con una sólida formación en desarrollo de aplicaciones web y multiplataforma. Poseo los títulos de Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y en Desarrollo de Aplicaciones Multiplataforma (DAM), además del Máster Universitario de Full Stack Developer de la Universidad Internacional de la Rioja, dominando de manera efectiva las competencias prácticas y teóricas de cada una de estas formaciones. Me destaco de otros perfiles junior gracias a mi experiencia laboral previa en un sector diferente, donde lideré equipos y fortalecí mis habilidades en gestión y orientación a resultados. Con un año de experiencia en desarrollo web, soy un apasionado de la tecnología; programo y estudio cada día para mejorar de forma continua. Me adapto con facilidad a los objetivos del cliente y de la empresa, asegurando dedicación y calidad en cada proyecto en el que participo.
+Soy Desarrollador Full Stack Junior con una sólida base en desarrollo de aplicaciones web y multiplataforma, actualmente completando el Máster en Desarrollo Full Stack en UNIR para profundizar mis conocimientos técnicos. En febrero, inicio mi formación como científico de datos, convencido de que mi carrera profesional deberá ir siempre acompañada de aprendizaje continuo para mantenerme actualizado.  Me distingo de otros perfiles junior gracias a mi experiencia laboral previa en otro sector, donde lideré equipos comerciales y fortalecí habilidades de gestión y ventas. Me alineo y adapto perfectamente a los objetivos tanto del cliente como de la empresa para la que trabajo, garantizando compromiso y calidad en los proyectos en los que me involucro.
 
 ## ✨ Datos rápidos sobre mí ✨
 - 🎓 Certificaciones Profesionales en **Desarrollo de Aplicaciones Web** y **Desarrollo de Aplicaciones Multiplataforma**
@@ -10,7 +9,7 @@ Soy programador fullstack junior con una sólida formación en desarrollo de apl
 - 💼 Más de 8 años de experiencia en **Ventas y Relaciones con Clientes**, donde lideré equipos como **Team Leader**, perfeccionando mis habilidades en comunicación, organización y comprensión de las necesidades del cliente; así como habilidades de selección, capacitación y gestión de grupos de trabajo
 - 🔨 **1 año de experiencia práctica** en desarrollo web, trabajando tanto en frontend como en backend
 - 🔭 Buscando activamente oportunidades emocionantes en tecnología para aplicar mis habilidades y creatividad
-- 📫 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/arturo-carrasco-gonzález) – ¡discutamos cómo puedo aportar valor a tu equipo!
+- 📫 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/arturo-carrasco-gonzález) 
 
 ## 🛠️ Principales lenguajes y tecnologías
 - **Frontend:** JavaScript, TypeScript, Angular, React

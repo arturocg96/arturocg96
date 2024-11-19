@@ -4,7 +4,7 @@ Soy Desarrollador Full Stack Junior con una sólida base en desarrollo de aplica
 
 ## ✨ Datos rápidos sobre mí ✨
 - 🎓 Ciclos Profesionales Superiores en **Desarrollo de Aplicaciones Web** y **Desarrollo de Aplicaciones Multiplataforma**
-- 🏆 Máster en **Full Stack Development por la Universidad Internacional de la Rioa**
+- 🏆 Máster en **Full Stack Development por la Universidad Internacional de la Rioja**
 - 📚 Cursando actualmente el Grado de **Ciencia de Datos**, considerando que mi formación nunca ha de terminar. 
 - 💼 Más de 8 años de experiencia en **Ventas y Relaciones con Clientes**, donde lideré equipos como **Team Leader**, perfeccionando mis habilidades en comunicación, organización y comprensión de las necesidades del cliente; así como habilidades de selección, capacitación y gestión de grupos de trabajo
 - 🔨 **1 año de experiencia práctica** en desarrollo web, trabajando tanto en frontend como en backend

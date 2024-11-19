@@ -3,7 +3,7 @@
 Soy Desarrollador Full Stack Junior con una sólida base en desarrollo de aplicaciones web y multiplataforma, actualmente completando el Máster en Desarrollo Full Stack en UNIR para profundizar mis conocimientos técnicos. En febrero, inicio mi formación como científico de datos, convencido de que mi carrera profesional deberá ir siempre acompañada de aprendizaje continuo para mantenerme actualizado.  Me distingo de otros perfiles junior gracias a mi experiencia laboral previa en otro sector, donde lideré equipos comerciales y fortalecí habilidades de gestión y ventas. Me alineo y adapto perfectamente a los objetivos tanto del cliente como de la empresa para la que trabajo, garantizando compromiso y calidad en los proyectos en los que me involucro.
 
 ## ✨ Datos rápidos sobre mí ✨
-- 🎓 Certificaciones Profesionales en **Desarrollo de Aplicaciones Web** y **Desarrollo de Aplicaciones Multiplataforma**
+- 🎓 Ciclos Profesionales Superiores en **Desarrollo de Aplicaciones Web** y **Desarrollo de Aplicaciones Multiplataforma**
 - 🏆 Máster en **Full Stack Development por la Universidad Internacional de la Rioa**
 - 📚 Cursando actualmente el Grado de **Ciencia de Datos**, considerando que mi formación nunca ha de terminar. 
 - 💼 Más de 8 años de experiencia en **Ventas y Relaciones con Clientes**, donde lideré equipos como **Team Leader**, perfeccionando mis habilidades en comunicación, organización y comprensión de las necesidades del cliente; así como habilidades de selección, capacitación y gestión de grupos de trabajo

@@ -1,28 +1,27 @@
-# ¡Hola! 👋 Soy Arturo Carrasco González
+# Hello! 👋 I’m Arturo Carrasco González
 
-Soy Desarrollador Full Stack Junior con una sólida base en desarrollo de aplicaciones web y multiplataforma, actualmente completando el Máster en Desarrollo Full Stack en UNIR para profundizar mis conocimientos técnicos. En febrero, inicio mi formación como científico de datos, convencido de que mi carrera profesional deberá ir siempre acompañada de aprendizaje continuo para mantenerme actualizado.  Me distingo de otros perfiles junior gracias a mi experiencia laboral previa en otro sector, donde lideré equipos comerciales y fortalecí habilidades de gestión y ventas. Me alineo y adapto perfectamente a los objetivos tanto del cliente como de la empresa para la que trabajo, garantizando compromiso y calidad en los proyectos en los que me involucro.
+I am a Full Stack Developer with expertise in web and mobile application development, specializing in web technologies. I adapt easily to different stacks and tools, focusing on delivering functional and scalable solutions aligned with client and business goals.
 
-## ✨ Datos rápidos sobre mí ✨
-- 🎓 Ciclos Profesionales Superiores en **Desarrollo de Aplicaciones Web** y **Desarrollo de Aplicaciones Multiplataforma**
-- 🏆 Máster en **Full Stack Development por la Universidad Internacional de la Rioja**
-- 📚 Cursando actualmente el Grado de **Ciencia de Datos**, considerando que mi formación nunca ha de terminar. 
-- 💼 Más de 8 años de experiencia en **Ventas y Relaciones con Clientes**, donde lideré equipos como **Team Leader**, perfeccionando mis habilidades en comunicación, organización y comprensión de las necesidades del cliente; así como habilidades de selección, capacitación y gestión de grupos de trabajo
-- 🔨 **1 año de experiencia práctica** en desarrollo web, trabajando tanto en frontend como en backend
-- 🔭 Buscando activamente oportunidades emocionantes en tecnología para aplicar mis habilidades y creatividad
-- 📫 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/arturo-carrasco-gonzález) 
+With over 8 years of experience as a team leader in the commercial sector, I bring strong skills in management, recruitment, communication, and results orientation, effectively applying these to tech projects. I’m committed to continuous improvement and staying updated with the latest technologies and trends to provide innovative solutions in a fast-evolving industry.
 
-## 🛠️ Principales lenguajes y tecnologías
+## ✨ Quick Facts About Me ✨
+- 🎓 Advanced Certifications in **Web Application Development** and **Multiplatform Application Development**
+- 🏆 Master’s in **Full Stack Development** from Universidad Internacional de La Rioja
+- 💼 Extensive experience in **Sales and Client Relations**, where I led teams as a **Team Leader**, refining skills in communication, organization, and understanding client needs
+- 🔨 **1 year of hands-on experience** in web development, working across frontend and backend
+- 🔭 Actively seeking exciting opportunities in technology to apply my skills and creativity
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arturo-carrasco-gonzález)
+
+## 🛠️ Key Languages and Technologies
 - **Frontend:** JavaScript, TypeScript, Angular, React
 - **Backend:** Node.js, .NET, PHP, Python
-- **Bases de Datos:** MongoDB, MySQL
+- **Databases:** MongoDB, MySQL
 
-## 💡 Otras herramientas de desarrollo
+## 💡 Other Development Tools
 HTML5, CSS3, Tailwind CSS, Bootstrap, Git, Visual Studio Code, Figma, Notion, Jira, GitHub Actions
 
-## 🌟 Qué aporto
-- **Orientación a resultados y calidad:** Con una sólida experiencia en liderazgo de equipos y relaciones con clientes, me enfoco en garantizar resultados de alta calidad en cada proyecto, asegurando que cumpla con los objetivos definidos.
-- **Colaboración y comunicación efectiva:** Gracias a mis habilidades de liderazgo y comunicación, colaboro de forma fluida con equipos de desarrollo y otros departamentos, alineándome con los objetivos tanto del cliente como de la empresa.
-- **Adaptabilidad y aprendizaje continuo:** Estoy comprometido con el aprendizaje permanente y tengo la capacidad de adaptarme rápidamente a nuevas herramientas, frameworks y tendencias del sector, lo que me permite ofrecer soluciones innovadoras y actualizadas.
-- **Pasión por la IA y Ciencia de Datos:** Apasionado por el potencial de la IA y la Ciencia de Datos, busco ampliar mis competencias en estas áreas para aportar valor añadido mediante aplicaciones impulsadas por datos.
-
-
+## 🌟 What I Bring
+- **Results and Quality Focus:** With solid team leadership and client relations experience, I ensure high-quality outcomes that meet defined goals.
+- **Effective Collaboration and Communication:** Leveraging leadership and communication skills, I collaborate seamlessly with development teams and other departments, aligning with both client and company objectives.
+- **Adaptability and Continuous Learning:** Committed to staying up-to-date with the latest tools, frameworks, and industry trends to deliver innovative, cutting-edge solutions.
+- **Passion for Innovation:** Eager to contribute to projects with creative and data-driven solutions, offering added value to the team.

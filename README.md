@@ -25,3 +25,5 @@ HTML5, CSS3, Tailwind CSS, Bootstrap, Git, Visual Studio Code, Figma, Notion, Ji
 - **Effective Collaboration and Communication:** Leveraging leadership and communication skills, I collaborate seamlessly with development teams and other departments, aligning with both client and company objectives.
 - **Adaptability and Continuous Learning:** Committed to staying up-to-date with the latest tools, frameworks, and industry trends to deliver innovative, cutting-edge solutions.
 - **Passion for Innovation:** Eager to contribute to projects with creative and data-driven solutions, offering added value to the team.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&count_private=true)](https://github.com/usuario/repositorio)

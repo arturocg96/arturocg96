@@ -28,15 +28,10 @@ HTML5, CSS3, Tailwind CSS, Bootstrap, Git, Visual Studio Code, Figma, Notion, Ji
 
 ## 📊 Repository Stats
 
-## 📊 Repository Stats
-
-## 📊 Repository Stats
-
 ### **Languages Used**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturocg96&layout=compact)](https://github.com/arturocg96)
 
-### **Commits Activity**
-[![Arturo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturocg96&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/arturocg96)
+
 
 
 

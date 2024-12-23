@@ -26,4 +26,10 @@ HTML5, CSS3, Tailwind CSS, Bootstrap, Git, Visual Studio Code, Figma, Notion, Ji
 - **Adaptability and Continuous Learning:** Committed to staying up-to-date with the latest tools, frameworks, and industry trends to deliver innovative, cutting-edge solutions.
 - **Passion for Innovation:** Eager to contribute to projects with creative and data-driven solutions, offering added value to the team.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&count_private=true)](https://github.com/usuario/repositorio)
+## 📊 Repository Stats
+
+### **Languages Used**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usuario&layout=compact)](https://github.com/usuario/repositorio)
+
+### **Commits Activity**
+![Commits](https://img.shields.io/github/commit-activity/m/usuario/repositorio)
